@@ -1,0 +1,2 @@
+1、安装selenium：pip install selenium
+2、下载phantomjs：https://phantomjs.org/download.html
