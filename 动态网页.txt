@@ -1,3 +1,2 @@
 1、安装selenium：pip install selenium
-2、下载phantomjs：https://phantomjs.org/download.html
-3、配置phantomjs环境变量：D:\phantomjs-2.1.1-windows\bin
+2、下载对应版本的chromedriver,并放在D:\Python38下（自动环境变量）
