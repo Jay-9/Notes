@@ -1,0 +1,2 @@
+#pyinstaller 目前只支持python3.7版本
+pyinstaller -F yz.py  # -F只生成一个文件
