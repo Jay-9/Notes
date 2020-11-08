@@ -11,3 +11,6 @@ python manage.py runserver  # http://127.0.0.1:8000/
 #创建app
 python manage.py startapp app名
 
+#创建迁移文件（数据库）
+python manage.py makemigrations
+
