@@ -8,3 +8,6 @@ django-admin startproject mysite
 #开启web
 python manage.py runserver  # http://127.0.0.1:8000/
 
+#创建app
+python manage.py startapp app名
+
