@@ -1,3 +1,0 @@
-0、http://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted
-1、下载：Twisted‑20.3.0‑cp38‑cp38‑win_amd64.whl
-2、安装：pip install Twisted‑20.3.0‑cp38‑cp38‑win_amd64.whl
